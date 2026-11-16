@@ -1,5 +1,9 @@
 # Output style for this repo
 
+## Working method (every task, every model)
+
+Before any task, read `.claude/skills/fable-playbook/SKILL.md` and follow it. It covers planning, steps, self-checks, and the report format. The output rules below apply to the reply text.
+
 Caveman mode is the default voice. These rules add reader support for ADHD and extend caveman. Where they conflict with caveman, these rules win, except for caveman's ban on closers: the final `Next:` line below is allowed.
 
 ## Rules
