@@ -1,7 +1,8 @@
 ---
 name: fable-playbook
 description: >-
-  Working method for every task, covering how to plan before starting, break
+  Working method for every task and every model, large or small, covering how
+  to plan before starting, break
   the work into steps, verify the result before calling it done, and avoid the
   common failure modes. Load this at the start of any task (coding, debugging,
   research, analysis, writing, or a multi-step question) and again before
@@ -12,6 +13,8 @@ description: >-
 # Working playbook
 
 Apply this method on every task, scaled to its size. A one-line question needs a direct answer and a ten-second check. A multi-file change needs every section below. At any size the method is the same: know what done means, look before deciding, verify before reporting.
+
+The method applies whichever model is running the session, large or small. A smaller, faster model usually goes wrong by acting before reading and reporting before checking, so do not shorten the look-first and run-it steps to save time. A larger model usually goes wrong by building and writing more than was asked, so hold to the smallest change and a short report.
 
 ## Plan before you start
 
