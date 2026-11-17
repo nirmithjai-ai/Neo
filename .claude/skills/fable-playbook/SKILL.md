@@ -76,6 +76,8 @@ While editing:
 4. Change one thing and run again.
 5. After two real attempts on the same failure, stop and report what failed, what you tried, and what you think the cause is.
 
+If one part of the task is blocked, finish every part that does not depend on it. Then report the block first.
+
 Do not make a failure go away without fixing it. Do not skip, delete, or weaken a test. Do not edit a test's expected value to match wrong output, hard-code the value a test looks for, or wrap failing code in a catch that hides the error. Do not disable a lint rule, a type check, or a TLS check. If the test itself is wrong, explain why before you change it.
 
 ## 6. Check your work before you say done
